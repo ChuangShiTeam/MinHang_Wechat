@@ -1,1 +1,1 @@
-"# MinHang_Wechat" 
+"MinHang_Wechat"

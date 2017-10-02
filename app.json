@@ -1,0 +1,39 @@
+{
+  "pages":[
+    "view/index/index",
+    "view/article/index",
+    "view/my/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#d3414c",
+    "navigationBarTitleText": "闵行党建",
+    "navigationBarTextStyle":"white"
+  },
+  "tabBar": {
+    "color": "#666666",
+    "selectedColor": "#d44245",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "view/index/index",
+        "iconPath": "/image/search.png",
+        "selectedIconPath": "/image/search_active.png",
+        "text": "寻匙"
+      },
+      {
+        "pagePath": "view/article/index",
+        "iconPath": "/image/favor.png",
+        "selectedIconPath": "/image/favor_active.png",
+        "text": "党建"
+      },
+      {
+        "pagePath": "view/my/index",
+        "iconPath": "/image/people.png",
+        "selectedIconPath": "/image/people_active.png",
+        "text": "个人"
+      }
+    ]
+  }
+}
